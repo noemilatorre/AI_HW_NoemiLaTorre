@@ -1,6 +1,6 @@
 # AI_HW_NoemiLaTorre - Python Exercises
 
-Questo repository contiene una serie di esercitazioni in Python, ognuna focalizzata su un argomento diverso. Ogni esercitazione è contenuta in una cartella separata, organizzata per argomento.
+Questa repository contiene una serie di esercitazioni in Python, ognuna focalizzata su un argomento diverso. Ogni esercitazione è contenuta in una cartella separata, organizzata per argomento.
 
 ## Struttura della Repository
 
